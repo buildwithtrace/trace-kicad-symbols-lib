@@ -1,0 +1,11 @@
+(kicad_symbol_lib
+  (version 20251024)
+  (symbol "Test_LED_Blue"
+    (property "Reference" "D" (at 0 0 0) (effects (font (size 1.27 1.27))))
+    (property "Value" "Test_LED_Blue" (at 0 -2.54 0) (effects (font (size 1.27 1.27))))
+    (symbol "Test_LED_Blue_0_1"
+      (pin passive line (at 0 2.54 270) (length 2.54) (name "A") (number "1"))
+      (pin passive line (at 0 -2.54 90) (length 2.54) (name "K") (number "2"))
+    )
+  )
+)
